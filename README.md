@@ -1,2 +1,2 @@
 # SimpleAndroidApp
-Android app devolped natively
+Android app devolped natively for a the course Mobile devolpment at DSV.
